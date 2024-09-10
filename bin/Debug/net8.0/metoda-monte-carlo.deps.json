@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "metoda-monte-carlo/1.0.0": {
+        "runtime": {
+          "metoda-monte-carlo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metoda-monte-carlo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

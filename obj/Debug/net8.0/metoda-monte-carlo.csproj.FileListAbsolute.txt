@@ -1,0 +1,14 @@
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/bin/Debug/net8.0/metoda-monte-carlo
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/bin/Debug/net8.0/metoda-monte-carlo.deps.json
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/bin/Debug/net8.0/metoda-monte-carlo.runtimeconfig.json
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/bin/Debug/net8.0/metoda-monte-carlo.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/bin/Debug/net8.0/metoda-monte-carlo.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.AssemblyInfoInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.AssemblyInfo.cs
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.csproj.CoreCompileInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/refint/metoda-monte-carlo.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/metoda-monte-carlo.genruntimeconfig.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/metoda-monte-carlo/metoda-monte-carlo/obj/Debug/net8.0/ref/metoda-monte-carlo.dll
